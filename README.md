@@ -21,6 +21,5 @@ It’s a beginner-friendly project that can be extended to applications like fac
 ## 🔧 Installation & Usage  
 ```bash
 git clone https://github.com/your-username/face-detection.git
-cd face-detection
 pip install opencv-python
-python face_detection.py
+python main.py
